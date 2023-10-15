@@ -3,7 +3,7 @@
 Установите зависимости и запустите скрипт:
    ```shell
    pip install -r requirements.txt
-   python transformer.py
+   python transformer.py```
 
 # Внесенные в код правки
 
