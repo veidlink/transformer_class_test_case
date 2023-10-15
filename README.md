@@ -1,8 +1,14 @@
 # Инструкция по запуску
 
-```pip install -r requirements.txt```
+1. Установите зависимости, выполнив следующую команду в командной строке:
+   ```shell
+   pip install -r requirements.txt
 
-```python transformer.py```
+    Запустите скрипт transformer.py, используя следующую команду:
+
+    shell
+
+    python transformer.py
 
 # Внесенные в код правки
 
