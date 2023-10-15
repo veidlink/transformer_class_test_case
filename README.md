@@ -1,6 +1,7 @@
 # Инструкция по запуску
 
 ```pip install -r requirements.txt```
+
 ```python transformer.py```
 
 # Внесенные в код правки
